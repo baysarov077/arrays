@@ -1,0 +1,8 @@
+const arr = []
+const newArr = [1, 2, 3]
+const strArr = ['intocode', 'Adam', 'Developer']
+const comboArr = [1, 'Baysarov', 2, 3, 'java-script', 'frontend']
+const names = ['Adam', 'Shamil', 'Muhammad', 'Rizvan', 'Sayfullah', 'Deni', 'Sidik', ]
+const values = [null, undefined, true, false]
+const emptiness = [[], [], []]
+const arrays = [[1, 2], [3, 4]]
